@@ -76,8 +76,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.facebook.com/dubey.utk",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Amit Bhadana&nbsp;</a>",
@@ -267,8 +268,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.facebook.com/dubey.utk",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Amit Bhadana&nbsp;</a>",
